@@ -1,0 +1,181 @@
+# =======================
+# GENERAL JUNK
+# =======================
+# OS generated files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Temporary & backup files
+*.tmp
+*.bak
+~$*
+
+# Logs
+*.log
+
+# =======================
+# PYTHON
+# =======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# =======================
+# R / RStudio
+# =======================
+.Rproj.user/
+.Rhistory
+*.RData
+*.Rproj
+
+# =======================
+# JSON and metadata
+# =======================
+*.autosave.json
+# Keep actual PROMFI .json files
+!*.json
+
+# =======================
+# CAD & 3D FILE FORMATS
+# =======================
+
+# Autodesk Inventor
+*.ipt
+*.iam
+*.idw
+*.ipn
+*.ide
+*.idv
+*.ipj
+
+# AutoCAD
+*.dwg
+*.dxf
+*.dwt
+*.sv$
+*.bak
+*.ac$
+
+# SolidWorks
+*.sldprt
+*.sldasm
+*.slddrw
+*.sldlfp
+*.sldprt~
+*.sldasm~
+
+# CATIA
+*.CATPart
+*.CATProduct
+*.CATDrawing
+*.CATProcess
+*.CATAnalysis
+
+# PTC Creo / ProE
+*.prt.*
+*.asm.*
+*.drw.*
+*.gph
+*.frm
+*.lay
+
+# Siemens NX / I-DEAS
+*.prt
+
+# Solid Edge
+*.par
+*.asm
+*.psm
+*.pwd
+*.dft
+
+# Fusion 360 / A360
+*.f3d
+*.f2d
+
+# Onshape (exported)
+*.zip
+*.json
+*.onshape
+
+# Revit / BIM
+*.rvt
+*.rfa
+*.rte
+
+# MicroStation
+*.dgn
+
+# Rhino
+*.3dm
+
+# SketchUp
+*.skp
+
+# Mastercam / CAM
+*.mc9
+*.mcx
+*.mcam
+*.nci
+
+# Metacam
+*.mcf
+*.mct
+
+# Waterjet / OMAX
+*.ord
+*.omx
+*.omd
+*.path
+
+# Neutral CAD / Shareable Formats
+*.stl
+*.step
+*.stp
+*.iges
+*.igs
+*.x_t
+*.x_b
+*.sat
+*.sab
+*.obj
+*.3ds
+*.ply
+
+# =======================
+# ZIP & ARCHIVES (optional)
+# =======================
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.bz2
+
+# =======================
+# PROMFI SYSTEM FILES
+# =======================
+# Let PROMFI JSON & README files stay tracked
+!*.json
+!*.md
+
+# Exclude heavy exports or backups in 00085.00
+00085.00/**/*.zip
+00085.00/**/*.7z
+00085.00/**/*.rar
+00085.00/**/*.tar
+00085.00/**/*.gz
+00085.00/**/*.bak
+00085.00/**/*.tmp
+00085.00/**/*.log
+00085.00/**/*.mp4
+00085.00/**/*.mov
+00085.00/**/*.avi
+00085.00/**/*.iso
+
+# Exclude large or private OneNote backups
+onenote/**
+!onenote/README.md
