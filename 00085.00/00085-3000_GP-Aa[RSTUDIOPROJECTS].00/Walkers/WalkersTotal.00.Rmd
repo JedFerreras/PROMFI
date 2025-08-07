@@ -1,0 +1,162 @@
+---
+title: "Walkers Report (June 2–6, 2025)"
+author: "Jed Ferreras"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(readr)
+library(lubridate)
+library(ggplot2)
+library(dplyr)
+library(hms)
+library(tidyr)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Load & Prepare Data
+```{r}
+data <- read_csv("C:/Users/jed_ferreras/PROMFI/50006-MIMMS.00/Walkers_06022025-06062025.csv")
+
+names(data)[names(data) == "walkers/10 min"] <- "walkers_10_min"
+names(data)[names(data) == "focus/work done"] <- "focus_score"
+
+data$clock_time <- as_hms(data$time)
+data$date <- as.Date(data$date)
+data$rate_per_minute <- data$walkers_10_min / 10
+data$rate_per_hour <- data$walkers_10_min * 6
+data$hour <- hour(data$clock_time)
+data$weekday <- factor(weekdays(data$date), levels = c("Monday", "Tuesday", "Wednesday", "Thursday", "Friday"))
+data$period <- ifelse(data$clock_time < as_hms("12:00:00"), "Morning",
+                      ifelse(data$clock_time < as_hms("14:00:00"), "Lunch", "Afternoon"))
+```
+
+### Daily Summary Stats
+```{r}
+daily_summary <- data %>%
+  group_by(date) %>%
+  summarise(
+    avg_min = mean(rate_per_minute),
+    avg_hour = mean(rate_per_hour),
+    max_rate = max(rate_per_minute),
+    total_walkers = sum(walkers_10_min),
+    avg_focus = mean(focus_score, na.rm = TRUE)
+  )
+
+knitr::kable(daily_summary, caption = "Daily Averages and Focus Scores")
+```
+
+### Before and After Lunch Periods
+```{r}
+period_summary <- data %>%
+  group_by(date, period) %>%
+  summarise(
+    avg_rate_min = mean(rate_per_minute),
+    avg_focus = mean(focus_score, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+knitr::kable(period_summary, caption = "Average Rate and Focus by Period")
+```
+
+### Peak Time Blocks
+```{r}
+peak_blocks <- data %>%
+  group_by(date) %>%
+  top_n(1, rate_per_minute) %>%
+  select(date, time, rate_per_minute)
+
+knitr::kable(peak_blocks, caption = "Highest Peak Time Per Day")
+```
+
+### Day with Most Foot Traffic
+```{r}
+busiest_day <- daily_summary %>%
+  filter(avg_min == max(avg_min))
+
+knitr::kable(busiest_day, caption = "Day with Highest Average Walkers per Minute")
+```
+
+### Extrapolated Daily Walkers and Peak Hour Rate
+# Compute max rate per minute and extrapolated full-day total per date
+```{r}
+extrapolated_summary <- data %>%
+  group_by(date) %>%
+  summarise(
+    observed_minutes = n() * 10,
+    total_walkers = sum(walkers_10_min),
+    avg_rate_minute = mean(rate_per_minute),
+    extrapolated_8hr_total = avg_rate_minute * 60 * 8,
+    peak_minute_rate = max(rate_per_minute),
+    peak_hourly_rate = round(max(rate_per_minute) * 60, 1),
+    .groups = "drop"
+  )
+
+# Display table
+knitr::kable(
+  extrapolated_summary,
+  digits = 2,
+  caption = "Extrapolated Total Walkers and Peak Hourly Rate (Based on Observed Intervals)"
+)
+```
+
+### Predicted Walkers by Weekday and Hour
+```{r}
+pattern_summary <- data %>%
+  filter(rate_per_minute > 0) %>%     # Exclude zero traffic times
+  group_by(hour) %>%                  # Don't group by weekday anymore
+  summarise(
+    avg_rate = mean(rate_per_minute),
+    .groups = "drop"
+  )
+
+knitr::kable(pattern_summary, caption = "Average Walkers per Minute by Hour (All Days, Excluding Zero-Traffic Times)")
+```
+
+### Lowest Non-Zero Average Walking Rate
+```{r}
+min_nonzero_rate <- data %>%
+  filter(rate_per_minute > 0) %>%
+  summarise(min_rate = min(rate_per_minute)) %>%
+  pull(min_rate)
+
+cat("🔻 The lowest non-zero observed walking rate is:", round(min_nonzero_rate, 2), "people per minute\n")
+cat("⏱️  That means someone walked by about every", round(60 / min_nonzero_rate), "seconds (at slowest observed rate).\n")
+```
+
+### Walkers per Minute Over Each Day
+```{r}
+ggplot(data, aes(x = clock_time, y = rate_per_minute, color = as.factor(date))) +
+  geom_line() +
+  labs(title = "Walkers per Minute Over Time", x = "Time", y = "People per Minute", color = "Date") +
+  theme_minimal()
+```
+
+### Daily Walkers vs Focus Score
+```{r}
+ggplot(daily_summary, aes(x = avg_min, y = avg_focus)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE) +
+  labs(title = "Daily Walkers vs Focus", x = "Average Walkers per Minute", y = "Focus Score") +
+  theme_minimal()
+```
+
+### Average Walkers per Minute by Hour
+```{r}
+ggplot(pattern_summary, aes(x = hour, y = avg_rate)) +
+  geom_col(fill = "steelblue") +
+  labs(
+    title = "Average Walkers per Minute by Hour (Excluding Zeros)",
+    x = "Hour of Day",
+    y = "Avg Walkers per Minute"
+  ) +
+  theme_minimal()
+```
+
+### Summary
+** On a daily basis, someone walks by my desk:  **
+** • At the **highest rate**: 3 times per minute (once every 20 seconds)  **
+** • At the **slowest rate**: once every 2 minutes **
+• **Typical interruption studies** report ~1 interruption every 5 minutes **
+→ **Conclusion**: Compared to most offices, this environment is *much busier* **

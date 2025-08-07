@@ -1,0 +1,12 @@
+﻿'H&H_BORDERS_DATA_RULE
+
+'set Author iproperty to match the system user name
+'iProperties.Value("Summary", "Author" ) = ThisApplication.GeneralOptions.UserName
+'set the Creattion Date iproperty to the current date
+'iProperties.Value("Project", "Creation Date" ) = Now
+'iProperties.Value("Custom", "NYC_UNIONPORT_BORDER_TIME&DATE") = iProperties.Value("Project", "Creation Date" )
+'update all 
+iLogicVb.UpdateWhenDone = True
+'zoom all
+ThisApplication.ActiveView.Fit
+'save when done updating

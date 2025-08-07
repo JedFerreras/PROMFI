@@ -1,0 +1,71 @@
+'THIS CODE PRINTS TIME AND DATE STAMPS ON DRAWING BORDER
+
+Public Sub AutoSave()
+
+
+Call AddSysDateTime
+
+
+End Sub
+
+Public Sub AddSysDateTime()
+
+
+
+On Error Resume Next
+
+
+
+'Check if the active document is a Drawing
+
+If ThisApplication.ActiveDocumentType = kDrawingDocumentObject Then
+
+
+
+'Add a custom property "SysDate" with system date
+
+Set oPropSet = ThisApplication.ActiveDocument.PropertySets("{D5CDD505-2E9C-101B-9397-08002B2CF9AE}")
+
+'As a workaround the property must be delete because it can not be changed
+
+oPropSet.Item("SysDate").Delete
+
+Call oPropSet.Add(Format(Date, "mmm-d-yy"), "SysDate")
+
+
+
+'Add a custom property "SysTime" with system time
+
+Set oPropSet = ThisApplication.ActiveDocument.PropertySets("{D5CDD505-2E9C-101B-9397-08002B2CF9AE}")
+
+'As a workaround the property must be delete because it can not be changed
+
+oPropSet.Item("SysTime").Delete
+
+Call oPropSet.Add(Format(Time, "h:mmam/pm"), "SysTime")
+
+
+
+'Still having some problems that the last property does not update correct
+
+Call RefreshProperties
+
+
+
+End If
+
+
+End Sub
+
+Private Sub RefreshProperties()
+
+
+
+Set oPropSet = ThisApplication.ActiveDocument.PropertySets("{D5CDD505-2E9C-101B-9397-08002B2CF9AE}")
+
+Call oPropSet.Add("", "MyDummy")
+
+oPropSet.Item("MyDummy").Delete
+
+
+End Sub

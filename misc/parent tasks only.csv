@@ -1,0 +1,574 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Labels,Labels,Labels,Labels,Description,Environment,Watchers,Watchers,Watchers Id,Watchers Id,Log Work,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Custom field (Actual end),Custom field (Actual start),Custom field (Affected hardware),Custom field (Affected services),Custom field (Approvals),Custom field (Category),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Design asset type),Custom field (Design reference),Custom field (Details),Custom field (Development),Custom field (Entitlement),Custom field (Epic Color),Custom field (Epic Name),Custom field (Epic Status),Custom field (Goals),Custom field (Impact),Custom field (Issue color),Custom field (Locked forms),Custom field (Major incident),Custom field (Open forms),Custom field (Operational categorization),Custom field (Pending reason),Custom field (Product categorization),Custom field (Project deliverables),Custom field (Project focus),Custom field (Project milestones),Custom field (Project overview key),Custom field (Project overview status),Custom field (Rank),Custom field (Related projects),Custom field (Request Type),Custom field (Request language),Custom field (Request participants),Custom field (Responders),Satisfaction rating,Custom field (Satisfaction date),Custom field (Sentiment),Custom field (Severity),Custom field (Source),Custom field (Stakeholders),Custom field (Stakeholders)Id,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Submitted forms),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field (Time to first response),Custom field (Time to resolution),Custom field (Total forms),Custom field (Urgency),Custom field (Vulnerability),Custom field (Work category),Custom field ([CHART] Date of First Response),Custom field ([CHART] Time in Status),Comment,Comment,Comment,Comment,Comment,Comment,Comment,Parent,Parent key,Parent summary,Status Category,Status Category Changed
+HiTech Project Management,HT10200-370,11586,Task,In Progress,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,24/Jun/25 9:49 AM,24/Jun/25 9:49 AM,24/Jun/25 9:50 AM,,,0,,,,,,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@677d0f24,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i001pr:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11426,HT10200-360,BACKOFFICE,In Progress,24/Jun/25 9:49 AM
+HiTech Titleblock,HT10200-368,11584,Task,In Progress,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,24/Jun/25 9:46 AM,24/Jun/25 9:48 AM,24/Jun/25 9:48 AM,,,0,,,,,,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@471bf01e,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i001pb:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11426,HT10200-360,BACKOFFICE,In Progress,24/Jun/25 9:48 AM
+Metralite EQT print shipping labels,HT10200-355,11421,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,11/Jun/25 11:36 AM,11/Jun/25 11:54 AM,,11/Jun/25 11:54 AM,,0,,,,,"10200-1111_dr-ca aaa.a.a.K metralite eqt print shipping labels.00
+
+
+
+
+
+please print the below for Moyer.
+
+ 
+
+Thank You
+
+ 
+
+Poonam
+
+ 
+
+*From:* Jamie Moyer <[moyer@hi-techmetals.com|mailto:moyer@hi-techmetals.com]>
+*Sent:* Wednesday, June 11, 2025 11:05 AM
+*To:* Poonam Persaud <[p.persaud@hi-techmetals.com|mailto:p.persaud@hi-techmetals.com]>
+*Subject:* Metralite EQT
+
+ 
+
+If you can need 3 tags each
+
+ 
+
+Customer: Metralite
+
+Project: EQT
+
+Description: coffee bar corrugated panel A
+
+Date: 6/11/25
+
+ 
+
+ 
+
+Customer: Metralite
+
+Project: EQT
+
+Description: coffee bar corrugated panel B
+
+Date: 6/11/25
+
+ 
+
+James Moyer
+
+_Senior Project Manager/Designer_ ",,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3897b259,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i001nb:,,,,,,,,,,,,,,,,,,,,,,,,,,,10135_*:*_1_*:*_1048048_*|*_10137_*:*_1_*:*_0,,,,,,,,11288,HT10200-325,Metralite,Done,11/Jun/25 11:54 AM
+Hinge Door 220 E 42nd St - Header Cover,HT10200-350,11354,Shop Drawings,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,05/Jun/25 4:54 PM,06/Jun/25 10:19 AM,,06/Jun/25 10:14 AM,,0,shops,,,,break formed sheet metal cover with plates for header,,Automation for Jira,Jed Ferreras,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5ee7be1f,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i001mn:,,,,,,,,,,,,,,,,,,,,,,,,,,2025-06-05 20:54:32.796,10135_*:*_1_*:*_62408077_*|*_10137_*:*_1_*:*_0,05/Jun/25 4:54 PM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-06-156 20:54,,,,,,,11301,HT10200-338,Hinge Door,Done,06/Jun/25 10:14 AM
+metralite eqt headers po 66577.00,HT10200-323,11267,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,29/May/25 3:03 PM,06/Jun/25 10:16 AM,,06/Jun/25 10:16 AM,,0,,,,,"10200-1113_dr-ca aaa.a.a.q metralite eqt headers po 66577.00
+
+Kamil has 3 additional headers similar to the previous set of headers.
+
+In this case, the cover plate is the same as before, and the three headers are technically all the same size.
+
+However, these headers have 2 plate sizes:
+9 1/8” x 72 1/8” (1)
+
+7 1/2” x 72 1/8” (2)
+
+Note that the invoice shows 97” instead of 72.",,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@36086c40,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i001gn:,,,,,,,,,,,,,,,,,,,,,,,,,,,10136_*:*_1_*:*_0_*|*_10135_*:*_1_*:*_191937,,,,,,,,11288,HT10200-325,Metralite,Done,06/Jun/25 10:16 AM
+Mass Merchandising JFK Foodhall labels.00,HT10200-240,11094,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,27/May/25 2:45 PM,11/Jun/25 12:04 PM,,29/May/25 10:02 AM,,0,backoffice,,,,"Customer: Mass Merchandising
+
+Project: JFK Foodhall
+
+Description: 1/16"" thick long grain 120 grit satin blackened and sealed stainless steel
+
+Date: 5/27/25
+
+ 
+
+Customer: Mass Merchandising
+
+Project: JFK Foodhall
+
+Description: 1/16"" thick long grain 120 grit satin blackened and sealed steel
+
+Date: 5/27/25
+
+print 10 each then release to Kamil",,Automation for Jira,Jed Ferreras,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7f790e0b,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i0010n:,,,,,,,,,,,,,,,,,,,,,,,,,,2025-05-27 18:45:34.731,10136_*:*_1_*:*_0_*|*_10135_*:*_1_*:*_1056741,"27/May/25 2:45 PM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;Work item created on 2025-05-147 18:45.
+
+Set the correct work type from:  
+• Printing  
+• Research  
+• Submittal  
+• Shops  
+• Estimate  
+• Field  
+• Backoffice  
+• Takeoffs",27/May/25 3:01 PM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-147 19:01,,,,,,11289,HT10200-326,Mass Merch,Done,29/May/25 10:02 AM
+variant 575 madison ave 20th fl handrail,HT10200-219,11029,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,22/May/25 1:38 PM,05/Jun/25 6:22 PM,,05/Jun/25 6:22 PM,,0,printing,,,,10200-1113_dr-ca_aaa.a.a.p.00,,Automation for Jira,Jed Ferreras,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@12e58d8a,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000vz:,,,,,,,,,,,,,,,,,,,,,,,,,,2025-05-22 17:38:58.989,10136_*:*_2_*:*_5051_*|*_10135_*:*_1_*:*_609443241_*|*_10137_*:*_1_*:*_608151337,"22/May/25 1:38 PM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;Work item created on 2025-05-142 17:38.
+
+Set the correct work type from:  
+• Printing  
+• Research  
+• Submittal  
+• Shops  
+• Estimate  
+• Field  
+• Backoffice  
+• Takeoffs",22/May/25 1:39 PM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 17:39,22/May/25 1:39 PM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 17:39,22/May/25 1:39 PM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 17:39,"05/Jun/25 3:52 PM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;""Reopened because a new subtask was added."" 2025-06-156 19:52",,,11290,HT10200-327,Variant,Done,05/Jun/25 6:22 PM
+3WTC freshfields - shelving unit,HT10200-162,10035,Research Pricing,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:15 PM,30/May/25 3:04 PM,,29/Apr/25 5:24 PM,,0,submittal,,,,,,Automation for Jira,Jed Ferreras,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@58466aee,,,,,,,,,,ghx-label-12,,,,,grey,,,,,,,,,,,,0|i0000f:,,,,,,,,,,,,,,,,,,,,,,,,,,2025-05-22 14:47:47.99,10000_*:*_1_*:*_130307_*|*_10066_*:*_1_*:*_69983150_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14136345,22/May/25 10:47 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 14:47,,,,,,,11288,HT10200-325,Metralite,Done,22/May/25 10:48 AM
+Mass Merchandising Flagstar - Cash Room Stainless Panels,HT10200-160,10238,Submittal Drawing,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,05/May/25 11:38 AM,11/Jun/25 12:13 PM,,05/May/25 1:12 PM,05/May/25 12:00 AM,0,submittal,,,,"Mass Merchandising Flagstar - Cash Room Stainless Panels
+
+
+
+10200-1112_dr-ca_aaa.a.a.g.00",,Automation for Jira,,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@41124b3d,,,,,,,,,,,,,,,,,,,,,,submittal drawing,stainless panels,submittal drawing,,,0|i000cn:,,,English,,,,,,,,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,2025-05-22 14:51:37.325,1_*:*_1_*:*_5634740_*|*_5_*:*_1_*:*_0,22/May/25 10:51 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 14:51,22/May/25 10:51 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 14:51,,,,,,11289,HT10200-326,Mass Merch,Done,22/May/25 10:51 AM
+Adler Windows Palisade Ave Metal panels,HT10200-159,10237,Submittal Drawing,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,05/May/25 11:35 AM,30/May/25 3:22 PM,,05/May/25 3:56 PM,05/May/25 12:00 AM,0,takeoffs,,,,"Patricia Cabarcas - Adler Estimator sent the request twice now
+
+Adler RFQ: 5901 Palisade Ave (River's Edge) | Metal panels at Curtain Wall
+
+
+
+W:\JedFerreras(T)\Submittal drawing tasks\Adler Windows Palisade Ave Metal Panels",,Automation for Jira,,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@379be99c,,,,,,,,,,,,,,,,,,,,,,Takeoffs,Metal Panels At Curtain Wall,Takeoffs,,,0|i000cf:,,,English,,,,,,,,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,2025-05-22 14:50:51.525,1_*:*_1_*:*_15682692_*|*_5_*:*_1_*:*_0,22/May/25 10:50 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 14:50,,,,,,,11307,HT10200-344,Adler Construction,Done,22/May/25 10:51 AM
+kamil tube cart,HT10200-157,10071,Shop Drawings,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:17 PM,11/Jun/25 12:36 PM,11/Jun/25 12:26 PM,29/Apr/25 5:33 PM,,0,shops,,,,,,Automation for Jira,Jed Ferreras,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@50a86bde,,,,,,,,,,ghx-label-10,,,,,blue,,,,,,,,,,,,0|i0004f:,,,,,,,,,,,,,,,,,,,,,,,,,,2025-05-22 14:48:49.783,10000_*:*_1_*:*_108776_*|*_10066_*:*_1_*:*_83991287_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14084479,22/May/25 10:48 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 14:48,,,,,,,11426,HT10200-360,BACKOFFICE,Done,22/May/25 10:49 AM
+545 Madison Ave Mag Lock Cover,HT10200-156,10208,Shop Drawings,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,02/May/25 3:40 PM,11/Jun/25 12:16 PM,,05/May/25 9:43 AM,02/May/25 12:00 AM,0,shops,,,,"10200-1113_dr-ca_aaa.a.a.j.00
+
+C:\Users\jed_ferreras\Documents\Vault\Jobs\shop draiwng tasks\545 Madison Ave Mag Lock Cover
+
+Draw 4 sided pan
+
+No weld corners
+
+Use prepaint black aluminum 1/16"" or thinner
+
+Job: 545 Madison ave",,Automation for Jira,,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@79af6381,,,,,,,,,,,,,,,,,,,,,,shop drawing,4 sided pan no weld corners,shop drawings,,,0|i000bj:,,,English,,,,,,,,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,2025-05-22 14:50:16.942,1_*:*_1_*:*_41527_*|*_3_*:*_1_*:*_1033941_*|*_4_*:*_1_*:*_0_*|*_5_*:*_1_*:*_235306658,22/May/25 10:50 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 14:50,,,,,,,11297,HT10200-334,11th Workshop,Done,22/May/25 10:50 AM
+action storefronts brooklyn public library - bronze handrail,HT10200-154,10190,Printing Tasks,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Lowest,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,01/May/25 3:18 PM,11/Jun/25 12:21 PM,,01/May/25 3:20 PM,01/May/25 12:00 AM,0,,,,,W:\JedFerreras(T)\10200-1110_Dt-za(Paper Print Tasks).00\10200-1111_dr-ca aaa.a.a.r action storefronts brooklyn public library - bronze handrail.00,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4802bcc9,,,,,,,,,,,,,,,,,,,,,,na,na,na,,,0|i000an:,,,English,,,,,,,,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,1_*:*_1_*:*_144413_*|*_5_*:*_1_*:*_0,,,,,,,,11424,HT10200-358,Action Storefronts,Done,22/May/25 10:49 AM
+Variant Services 21 West End Ave doors and metal,HT10200-153,10254,Printing Tasks,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Lowest,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,07/May/25 10:46 AM,11/Jun/25 12:13 PM,,07/May/25 10:50 AM,07/May/25 12:00 AM,0,printing,,,,"Variant Services 21 West End Ave doors and metal
+
+
+
+10200-1111_dr-ca_aaa.a.a.u.00
+
+
+
+W:\JedFerreras(T)\Paper Print Tasks\Variant Services 21 West End Ave doors and metal",,Automation for Jira,,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5257a933,,,,,,,,,,,,,,,,,,,,,,printing,printing,printing,,,0|i000ev:,,,English,,,,,,,,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,2025-05-22 15:03:49.888,1_*:*_1_*:*_224897_*|*_5_*:*_1_*:*_0,22/May/25 11:03 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 15:03,,,,,,,11290,HT10200-327,Variant,Done,22/May/25 11:03 AM
+Variant Services 575 Madison Ave 15th Fl Dental Spa hafle track,HT10200-152,10249,Printing Tasks,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Lowest,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,06/May/25 4:02 PM,11/Jun/25 12:13 PM,,06/May/25 4:03 PM,06/May/25 12:00 AM,0,printing,,,,"Variant Services 575 Madison Ave 15th Fl Dental Spa hafle track
+
+
+
+10200-1111_dr-ca_aaa.a.a.t.00
+
+
+
+W:\JedFerreras(T)\Paper Print Tasks\Variant Services 575 Madison Ave 15th Fl Dental Spa hafle track",,Automation for Jira,,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@f6eb8e3,,,,,,,,,,,,,,,,,,,,,,Scan and Email (printing task),scan and email docs to Jamie,Scan and Email (printing task),,,0|i000e7:,,,English,,,,,,,,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,2025-05-22 14:54:56.228,1_*:*_1_*:*_21565_*|*_5_*:*_1_*:*_0,22/May/25 10:54 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 14:54,,,,,,,11290,HT10200-327,Variant,Done,22/May/25 10:55 AM
+Versatile quote 179095 1515 Broadway Clear Glass,HT10200-151,10239,Printing Tasks,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,05/May/25 2:41 PM,11/Jun/25 12:13 PM,,05/May/25 2:42 PM,05/May/25 12:00 AM,0,printing,,,,"Versatile quote 179095 1515 Broadway Clear Glass
+
+10200-1111_dr-ca_aaa.a.a.s.00
+
+W:\JedFerreras(T)\Paper Print Tasks\Versatile quote 179095 1515 Broadway Clear Glass",,Automation for Jira,,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7ec7e7da,,,,,,,,,,,,,,,,,,,,,,printing,printing,printing,,,0|i000cv:,,,English,,,,,,,,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,2025-05-22 15:03:27.374,1_*:*_1_*:*_60282_*|*_5_*:*_1_*:*_0,22/May/25 11:03 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 15:03,,,,,,,11291,HT10200-328,Versatile,Done,22/May/25 11:03 AM
+Variant Services 228 E45st Zimbabwe Statue Plate,HT10200-148,10242,Shop Drawings,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,05/May/25 4:13 PM,11/Jun/25 12:13 PM,,06/May/25 4:11 PM,06/May/25 12:00 AM,0,shops,,,,"Variant Services 228 E45st Zimbabwe Statue Plate
+
+
+
+10200-1113_dr-ca_aaa.a.a.k.00
+
+
+
+C:\Users\jed_ferreras\Documents\Vault\Jobs\Shop draiwng tasks",,Automation for Jira,,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@494ed632,,,,,,,,,,,,,,,,,,,,,,,statue plate,,,,0|i000db:,,,English,,,,,,,,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,2025-05-22 14:52:07.041,1_*:*_1_*:*_86286727_*|*_5_*:*_1_*:*_0,22/May/25 10:52 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 14:52,,,,,,,11290,HT10200-327,Variant,Done,22/May/25 10:52 AM
+Metralite Elliot - Redraw Headers,HT10200-144,10198,Shop Drawings,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Low,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,02/May/25 8:50 AM,11/Jun/25 12:17 PM,,05/May/25 11:38 AM,02/May/25 12:00 AM,0,shops,,,,C:\Users\jed_ferreras\Documents\Vault\Jobs\submittal drawing tasks\Metralite Elliot - Redraw Headers,,Automation for Jira,,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@ccb292d,,,,,,,,,,,,,,,,,,,,,,,redraw per metralite scanned sketch,,,,0|i0008r:,,,English,,,,,,,,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,2025-05-22 14:49:05.127,1_*:*_1_*:*_158703_*|*_3_*:*_1_*:*_21575424_*|*_4_*:*_1_*:*_0_*|*_5_*:*_1_*:*_240670602,22/May/25 10:49 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 14:49,,,,,,,11288,HT10200-325,Metralite,Done,22/May/25 10:49 AM
+versatile 11 madison - 1.5 tormax arm,HT10200-142,10069,Shop Drawings,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:16 PM,06/Jun/25 10:15 AM,11/Jun/25 12:26 PM,06/Jun/25 10:15 AM,,0,shops,,,,,,Automation for Jira,Jed Ferreras,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1c287efe,,,,,,,,,,ghx-label-7,,,,,purple,,,,,,,,,,,,0|i00047:,,,,,,,,,,,,,,,,,,,,,,,,,,2025-05-22 14:48:34.442,1_*:*_1_*:*_345638190_*|*_6_*:*_1_*:*_495880371_*|*_10000_*:*_1_*:*_110581_*|*_10066_*:*_1_*:*_83976026_*|*_10068_*:*_1_*:*_4376_*|*_10067_*:*_1_*:*_1120740679_*|*_10136_*:*_3_*:*_11248849_*|*_10003_*:*_1_*:*_14086257_*|*_10137_*:*_2_*:*_678090024,22/May/25 10:48 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 14:48,"27/May/25 2:03 PM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;""Reopened because a new subtask was added."" 2025-05-147 18:03","27/May/25 2:07 PM;712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885;[https://jedferreras.atlassian.net/browse/HT10200-238|https://jedferreras.atlassian.net/browse/HT10200-238|smart-link] 
+
+   1. remove the notch on the long plate
+
+# remove tapered hole on big block
+# the center plate with barstock as per Manny’s comments is actually a gusset or rib, here we may need to discuss with Manny before releasing this job
+# the two pockets on the big block may need Manny’s feedback",,,,,11291,HT10200-328,Versatile,Done,06/Jun/25 10:15 AM
+Mass Merch Moncler 58th street 745 5th Ave,HT10200-140,10255,Printing Tasks,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Lowest,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,07/May/25 3:22 PM,11/Jun/25 12:12 PM,,07/May/25 3:23 PM,07/May/25 12:00 AM,0,printing,,,,"Mass Merch Moncler 58th street 745 5th Ave
+
+
+
+10200-1111_dr-ca_aaa.a.a.v.00
+
+
+
+C:\Users\jed_ferreras\Documents\Vault\Jobs\Paper Print Tasks\Mass Merch Moncler 58th street 745 5th Ave",,Automation for Jira,,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3a71501e,,,,,,,,,,,,,,,,,,,,,,,printing,,,,0|i000f3:,,,English,,,,,,,,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,2025-05-22 15:03:04.675,1_*:*_1_*:*_35217_*|*_5_*:*_1_*:*_0,22/May/25 11:03 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 15:03,,,,,,,11289,HT10200-326,Mass Merch,Done,22/May/25 11:02 AM
+Metralite EQT brake shape,HT10200-139,10260,Shop Drawings,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Lowest,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,08/May/25 9:58 AM,30/May/25 4:02 PM,,30/May/25 4:02 PM,08/May/25 12:00 AM,0,shops,,,,"Metralite EQT brake shape
+
+
+
+10200-1113_dr-ca_aaa.a.a.l.00
+
+
+
+C:\Users\jed_ferreras\Documents\Vault\Jobs\Shop drawing tasks\Metralite EQT brake shape",,Automation for Jira,,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,,,,,,,,0,3600,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@254d88a,,,,,,,,,,,,,,,,,,,,,,shop drawing,brake shape,shop drawing,,,0|i000fr:,,,English,,,,,,,,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,2025-05-22 15:02:33.789,1_*:*_1_*:*_21681939_*|*_5_*:*_1_*:*_1190099703_*|*_10136_*:*_2_*:*_1693559_*|*_10137_*:*_1_*:*_708149815,22/May/25 11:02 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 15:02,"30/May/25 3:45 PM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;""Reopened because a new subtask was added."" 2025-05-150 19:45",,,,,,11288,HT10200-325,Metralite,Done,30/May/25 4:02 PM
+incoming sample for Jamie,HT10200-138,10299,Backoffice,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Lowest,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,12/May/25 1:33 PM,11/Jun/25 12:39 PM,,12/May/25 1:33 PM,12/May/25 12:00 AM,0,backoffice,,,,"This is a sample for Jamie
+
+10200-1114_dr-ca_aaa.a.a.e
+
+10200-1114_dr-ca aaa.a.a.e incoming sample for jamie.00
+
+
+
+W:\JedFerreras(T)\Research Pricing\Incoming Sample for Jamie",,Automation for Jira,,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@681041e,,,,,,,,,,,,,,,,,,,,,,This is a sample for Jamie,This is a sample for Jamie,"This is a sample for Jamie
+
+",,,0|i000gn:,,,English,,,,,,,,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,2025-05-22 15:01:59.318,1_*:*_1_*:*_11793_*|*_3_*:*_1_*:*_0,22/May/25 11:01 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 15:01,,,,,,,11426,HT10200-360,BACKOFFICE,Done,22/May/25 11:02 AM
+Cedar Crossing Casino - Curtain Wall and Entrances Scope,HT10200-137,10311,Printing Tasks,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Lowest,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,13/May/25 2:35 PM,11/Jun/25 12:12 PM,,13/May/25 2:36 PM,13/May/25 12:00 AM,0,printing,,,,"Cedar Crossing Casino - Curtain Wall and Entrances Scope
+
+
+
+10200-1111_dr-ca_aaa.a.a.w.00",,Automation for Jira,,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@559a6fc0,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000hr:,,,English,,,,,,,,,,13/May/25 12:00 AM,,,,,,,,,,,,,2025-05-22 15:01:34.393,1_*:*_1_*:*_44173_*|*_3_*:*_1_*:*_0,22/May/25 11:01 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 15:01,,,,,,,11302,HT10200-339,Formanford,Done,22/May/25 11:01 AM
+Metralite 320 Park Ave Flagstar Storefront,HT10200-136,10312,Shop Drawings,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Lowest,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,13/May/25 5:56 PM,30/Jun/25 5:12 PM,24/Jun/25 9:51 AM,30/Jun/25 5:12 PM,,0,field,printing,shops,submittal,"Metralite Flagstar Storefront
+
+
+
+10200-1111_dr-ca_aaa.a.a.x.00
+
+Job Breakdown:
+
+Metralite 320 Park Ave Flagstar Storefront
+
+* Parameters
+* MIM Ghost Layout
+* Park Ave
+** Curb
+** Entrance
+*** Saddle
+*** Left Door
+*** Right Door
+*** Sidelites
+*** Transom
+** Window A
+* 51st Street
+** Window B
+** Window C",,Automation for Jira,,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,,,,,,,,0,12600,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@43c91bc9,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000hz:,,,English,,,,,,,,,,13/May/25 12:00 AM,,,,,,,,,,,,,2025-05-22 15:04:40.952,1_*:*_1_*:*_159875_*|*_5_*:*_1_*:*_750796231_*|*_10136_*:*_5_*:*_1510497297_*|*_10137_*:*_5_*:*_839112361,22/May/25 11:04 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 15:04,28/May/25 9:21 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-148 13:21,28/May/25 9:22 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-148 13:22,28/May/25 9:22 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-148 13:22,28/May/25 9:22 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-148 13:22,"28/May/25 9:23 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;""Reopened because a new subtask was added."" 2025-05-148 13:23","16/Jun/25 11:38 AM;712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885;As of today it took about 12 days to complete the drawings
+
+
+
+currently missing:
+
+# bldg structural details
+# entrance internal structural details
+# takeoffs
+# door hardware
+# cladding tabs for both transom and door (the swept bars)
+# misc details like gaps between door cladding and internal framing",11288,HT10200-325,Metralite,Done,30/Jun/25 5:12 PM
+Hinge 77 EXECUTIVE BLVD SINGLE DOOR,HT10200-135,10313,Printing Tasks,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Lowest,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,13/May/25 5:59 PM,11/Jun/25 12:11 PM,,13/May/25 5:59 PM,13/May/25 12:00 AM,0,printing,,,,"Hinge 77 EXECUTIVE BLVD SINGLE DOOR
+
+
+
+10200-1111_dr-ca_aaa.a.a.y.00",,Automation for Jira,,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@38ffb971,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000i7:,,,English,,,,,,,,,,13/May/25 12:00 AM,,,,,,,,,,,,,2025-05-22 15:01:07.775,1_*:*_1_*:*_32297_*|*_5_*:*_1_*:*_0,22/May/25 11:01 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 15:01,,,,,,,11301,HT10200-338,Hinge Door,Done,22/May/25 11:01 AM
+Metralite Solomon Push Plate,HT10200-134,10330,Shop Drawings,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Lowest,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,15/May/25 9:48 AM,11/Jun/25 12:11 PM,,15/May/25 10:25 AM,15/May/25 12:00 AM,0,shops,,,,"Metralite Solomon Push Plate
+
+
+
+10200-1113_dr-ca_aaa.a.a.n.00
+
+
+
+job was handed over to Gibby",,Automation for Jira,,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@37749494,,,,,,,,,,,,,,,,,,,,,,na,na,na,,,0|i000iv:,,,English,,,,,,,,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,2025-05-22 14:59:21.538,1_*:*_1_*:*_2222170_*|*_5_*:*_1_*:*_0,22/May/25 10:59 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 14:59,,,,,,,11288,HT10200-325,Metralite,Done,22/May/25 11:00 AM
+The SCI Construction Group Silverstein Properties - Silver Towers - Door Replacements,HT10200-131,10364,Printing Tasks,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Lowest,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,16/May/25 1:40 PM,11/Jun/25 12:10 PM,,16/May/25 3:17 PM,16/May/25 12:00 AM,0,printing,,,,"The SCI Construction Group Silverstein Properties - Silver Towers - Door Replacements
+
+
+
+10200-1111_dr-ca_aaa.a.a.A.00",,Automation for Jira,,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@33e3eaf4,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000jb:,,,English,,,,,,,,,,16/May/25 12:00 AM,,,,,,,,,,,,,2025-05-22 14:59:13.007,1_*:*_1_*:*_5777849_*|*_6_*:*_1_*:*_0,22/May/25 10:59 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 14:59,,,,,,,11295,HT10200-332,SCI Construction,Done,22/May/25 10:59 AM
+Rockwood MFG RM5270 TYPE 5HD,HT10200-129,10367,Research Pricing,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Lowest,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,16/May/25 3:16 PM,11/Jun/25 12:39 PM,,16/May/25 3:18 PM,16/May/25 12:00 AM,0,backoffice,,,,"Rockwood MFG RM5270 TYPE 5HD
+
+
+
+10200-1114_dr-ca_aaa.a.a.f.00",,Automation for Jira,,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6aad2c6b,,,,,,,,,,,,,,,,,,,,,,,na,,,,0|i000jz:,,,English,,,,,,,,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,2025-05-22 14:58:51.203,1_*:*_1_*:*_105506_*|*_6_*:*_1_*:*_0,22/May/25 10:58 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 14:58,,,,,,,11426,HT10200-360,BACKOFFICE,Done,22/May/25 10:58 AM
+Metralite 368 9th Ave Nuveen Parapet Railing,HT10200-123,10369,Shop Drawings,In Progress,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,16/May/25 3:22 PM,01/Jul/25 1:18 PM,01/Jul/25 1:24 PM,,,0,submittal,,,,"Metralite Nuveen - Parapet Railing
+
+
+
+10200-1113_dr-ca_aaa.a.a.o.00",,Automation for Jira,,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2ce1f309,,,,,,,,,,,,,,,,,,,,,,,na,,,,0|i000kf:,,,English,,,,,,,,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,2025-05-22 14:58:06.433,,22/May/25 10:58 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 14:58,"03/Jun/25 5:19 PM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;""Reopened because a new subtask was added."" 2025-06-154 21:19",,,,,,11288,HT10200-325,Metralite,In Progress,18/Jun/25 3:11 PM
+Metralite UBS Railings,HT10200-120,10375,Shop Drawings,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Lowest,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,16/May/25 3:32 PM,11/Jun/25 12:03 PM,,29/May/25 11:12 AM,16/May/25 12:00 AM,0,shops,,,,"Metralite UBS Railings
+
+
+
+10200-1111_dr-ca aaa.a.a.B metralite ubs railings.00",,Automation for Jira,,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@ae607c8,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000lr:,,,English,,,,,,,,,,16/May/25 12:00 AM,,,,,,,,,,,,,2025-05-22 14:57:54.07,1_*:*_1_*:*_342812142_*|*_6_*:*_1_*:*_157047926_*|*_10136_*:*_2_*:*_2055679_*|*_10137_*:*_1_*:*_604046417,22/May/25 10:57 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 14:57,"29/May/25 10:45 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;""Reopened because a new subtask was added."" 2025-05-149 14:45",,,,,,11288,HT10200-325,Metralite,Done,29/May/25 11:12 AM
+s&jentrance custom deck cladding,HT10200-117,10429,Submittal Drawing,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Lowest,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,20/May/25 8:44 AM,11/Jun/25 12:09 PM,,22/May/25 10:16 AM,20/May/25 12:00 AM,0,printing,,,,10200-1111_dr-ca aaa.a.a.D s&jentrance custom deck cladding.00,,Automation for Jira,,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@23e3d73a,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000m7:,,,English,,,,,,,,,,20/May/25 12:00 AM,,,,,,,,,,,,,2025-05-22 13:19:06.615,1_*:*_1_*:*_37750_*|*_5_*:*_1_*:*_174756630_*|*_10136_*:*_2_*:*_57951_*|*_10137_*:*_1_*:*_31419,"22/May/25 9:19 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;""Reopened because a new subtask was added."" 2025-05-142 13:19",,,,,,,11296,HT10200-333,S&J,Done,22/May/25 10:16 AM
+mass merch steel portal,HT10200-115,10629,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,22/May/25 9:02 AM,11/Jun/25 12:07 PM,,22/May/25 10:56 AM,,0,printing,,,,10200-1111_dr-ca aaa.a.a.H mass merch steel portal.00,,Automation for Jira,Jed Ferreras,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7e2c85b3,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000s7:,,,,,,,,,,,,,,,,,,,,,,,,,,2025-05-22 13:02:24.19,10135_*:*_1_*:*_6866092_*|*_10137_*:*_1_*:*_0,"22/May/25 9:02 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;Work item created on 2025-05-142 13:02.
+
+Set the correct work type from:  
+• Printing  
+• Research  
+• Submittal  
+• Shops  
+• Estimate  
+• Field  
+• Backoffice  
+• Takeoffs",22/May/25 10:56 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 14:56,,,,,,11289,HT10200-326,Mass Merch,Done,22/May/25 10:56 AM
+commodore construction brookfield transoms,HT10200-113,10610,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,22/May/25 8:57 AM,11/Jun/25 12:07 PM,,22/May/25 10:57 AM,,0,printing,,,,10200-1111_dr-ca aaa.a.a.G commodore construction brookfield transoms.00,,Automation for Jira,Jed Ferreras,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4a336d65,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000rr:,,,,,,,,,,,,,,,,,,,,,,,,,,2025-05-22 12:57:17.396,10135_*:*_1_*:*_7186730_*|*_10137_*:*_1_*:*_0,"22/May/25 8:57 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;Work item created on 2025-05-142 12:57.
+
+Set the correct work type from:  
+• Printing  
+• Research  
+• Submittal  
+• Shops  
+• Estimate  
+• Field  
+• Backoffice  
+• Takeoffs",22/May/25 10:56 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 14:56,,,,,,11304,HT10200-341,Commodore Construction,Done,22/May/25 10:57 AM
+superstructures 55 stuyvesant place - bronze doors inquiry,HT10200-111,10591,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,22/May/25 8:27 AM,11/Jun/25 12:04 PM,,29/May/25 1:56 PM,,0,printing,,,,10200-1111_dr-ca aaa.a.a.F superstructures 55 stuyvesant place - bronze doors inquiry.00,,Automation for Jira,Jed Ferreras,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@4d82daea,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000rb:,,,,,,,,,,,,,,,,,,,,,,,,,,2025-05-22 12:27:17.635,10136_*:*_1_*:*_0_*|*_10135_*:*_1_*:*_8927842_*|*_10137_*:*_1_*:*_601792215,"22/May/25 8:27 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;Work item created on 2025-05-142 12:27.
+
+Set the correct work type from:  
+• Printing  
+• Research  
+• Submittal  
+• Shops  
+• Estimate  
+• Field  
+• Backoffice  
+• Takeoffs",22/May/25 10:55 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 14:55,"29/May/25 10:05 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;""Reopened because a new subtask was added."" 2025-05-149 14:05",,,,,11299,HT10200-336,Superstructures,Done,29/May/25 1:56 PM
+versatile 2 black painted alum panels,HT10200-80,10165,Shop Drawings,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,30/Apr/25 9:26 AM,11/Jun/25 12:23 PM,11/Jun/25 12:23 PM,02/May/25 11:09 AM,,0,shops,,,,"10200-1113_dr-ca aaa.a.a.h 745 7th ave versatile 2 black painted alum panels.00
+
+make part drawings of 2 back painted aluminum door panels ",,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@46e82d8a,,,,,,,,,,ghx-label-8,,,,,dark_purple,,,,,,,,,,,,0|i0007b:,,,English,,,,,,,,,,,,,,,,,,,,,,,,3_*:*_1_*:*_0_*|*_10066_*:*_1_*:*_4288009,,,,,,,,11291,HT10200-328,Versatile,Done,21/May/25 4:39 PM
+Mass Merch citadel mockup,HT10200-79,10104,Shop Drawings,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 5:52 PM,11/Jun/25 12:23 PM,11/Jun/25 12:24 PM,22/May/25 10:46 AM,,0,shops,,,,10200-1113_dr-ca aaa.a.a.b mass merch citadel mockup.00,,Automation for Jira,Jed Ferreras,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@197e088a,,,,,,,,,,ghx-label-14,,,,,dark_orange,,,,,,,,,,,,0|i0006n:,,,English,,,,,,,,,,,,,,,,,,,,,,,2025-05-22 14:46:16.131,1_*:*_1_*:*_776649736_*|*_3_*:*_1_*:*_2223_*|*_10066_*:*_1_*:*_105559_*|*_10068_*:*_2_*:*_18707_*|*_10067_*:*_1_*:*_1205853037_*|*_10136_*:*_2_*:*_234427_*|*_10137_*:*_1_*:*_65156456,"22/May/25 10:46 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;""Reopened because a new subtask was added."" 2025-05-142 14:46",,,,,,,11289,HT10200-326,Mass Merch,Done,22/May/25 10:46 AM
+variant services 575 madison ave dental spa louver,HT10200-78,10079,Shop Drawings,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:17 PM,11/Jun/25 12:25 PM,11/Jun/25 12:25 PM,30/Apr/25 11:06 AM,,0,shops,,,,10200-1113_dr-ca aaa.a.a.e variant services 575 madison ave dental spa louver.00,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1fdfdccc,,,,,,,,,,ghx-label-10,,,,,blue,,,,,,,,,,,,0|i0005b:,,,,,,,,,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_102609_*|*_10066_*:*_1_*:*_84071286_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14076084,,,,,,,,11290,HT10200-327,Variant,Done,21/May/25 4:40 PM
+dynamic bldg solutions record store 30 rock,HT10200-77,10077,Shop Drawings,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:17 PM,11/Jun/25 12:25 PM,11/Jun/25 12:25 PM,29/Apr/25 5:34 PM,,0,shops,,,,10200-1113_dr-ca aaa.a.a.g dynamic bldg solutions record store 30 rock.00,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7ef3adac,,,,,,,,,,ghx-label-1,,,,,dark_grey,,,,,,,,,,,,0|i00053:,,,,,,,,,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_104249_*|*_10066_*:*_1_*:*_84053968_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14078035,,,,,,,,11303,HT10200-340,Dynamic Bldg Sols,Done,21/May/25 4:41 PM
+dyn bldg sols chase 22-45 31st st astoria,HT10200-76,10051,Shop Drawings,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:16 PM,11/Jun/25 12:28 PM,11/Jun/25 12:28 PM,29/Apr/25 5:29 PM,,0,shops,,,,10200-1113_dr-ca aaa.a.a.f dyn bldg sols chase 22-45 31st st astoria.00,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6a54e53c,,,,,,,,,,ghx-label-3,,,,,yellow,,,,,,,,,,,,0|i00027:,,,,,,,,,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_129311_*|*_10066_*:*_1_*:*_83765185_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14106126,,,,,,,,11303,HT10200-340,Dynamic Bldg Sols,Done,21/May/25 4:42 PM
+metralite headers po 67253.00,HT10200-75,10177,Shop Drawings,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,30/Apr/25 1:53 PM,11/Jun/25 12:23 PM,,02/May/25 2:53 PM,,0,shops,,,,"10200-1113_dr-ca aaa.a.a.i metralite headers po 67253.00
+
+
+
+create shop drawings for headers based on Kamils info and some measurements in shop using the parts provided by metralite",,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6dff5c91,,,,,,,,,,ghx-label-7,,,,,purple,,,,,,,,,,,,0|i0008v:,,,English,,,,,,,,,,,,,,,,,,,,,,,,3_*:*_1_*:*_0_*|*_10066_*:*_1_*:*_13556,,,,,,,,11288,HT10200-325,Metralite,Done,21/May/25 4:39 PM
+hafele door & track hardware,HT10200-71,10075,Research Pricing,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:17 PM,11/Jun/25 12:38 PM,11/Jun/25 12:25 PM,29/Apr/25 5:34 PM,,0,research,,,,"10200-1114_dr-ca aaa.a.a.c hafele door & track hardware.00
+
+
+
+obtained quote from hafele
+
+Hafele Quotation 68158523 of 11-04-2025 / Your inquiry: RFQ",,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@bd854c8,,,,,,,,,,ghx-label-1,,,,,dark_grey,,,,,,,,,,,,0|i0004v:,,,,,,,,,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_106674_*|*_10066_*:*_1_*:*_84027613_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14080544,,,,,,,,11426,HT10200-360,BACKOFFICE,Done,21/May/25 4:30 PM
+61 irving national wall,HT10200-65,10037,Submittal Drawing,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:15 PM,30/May/25 3:19 PM,,29/Apr/25 5:24 PM,,0,submittal,,,,10200-1112_dr-ca aaa.a.a.b 61 irving national wall.00,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7f0f0570,,,,,,,,,,ghx-label-8,,,,,dark_purple,,,,,,,,,,,,0|i0000n:,,,,,,,,,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_137785_*|*_10066_*:*_1_*:*_69990359_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14126147,,,,,,,,11292,HT10200-329,National Wall,Done,21/May/25 4:27 PM
+80 clarkson st - canopy,HT10200-64,10039,Submittal Drawing,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:15 PM,30/May/25 3:21 PM,,29/Apr/25 5:24 PM,,0,submittal,,,,10200-1112_dr-ca aaa.a.a.c 80 clarkson st - canopy.00,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@107e287d,,,,,,,,,,ghx-label-2,,,,,dark_yellow,,,,,,,,,,,,0|i0000v:,,,,,,,,,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_127743_*|*_10066_*:*_1_*:*_69993337_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14132929,,,,,,,,11293,HT10200-330,W&W Glass,Done,21/May/25 4:28 PM
+metralite wilson sonsini 31 w 52nd st - elevator panels,HT10200-63,10059,Submittal Drawing,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:16 PM,11/Jun/25 12:26 PM,11/Jun/25 12:26 PM,30/Apr/25 11:05 AM,,0,submittal,,,,10200-1112_dr-ca aaa.a.a.d metralite wilson sonsini 31 w 52nd st - elevator panels.00,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3eb92a9d,,,,,,,,,,ghx-label-1,,,,,dark_grey,,,,,,,,,,,,0|i00033:,,,,,,,,,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_121942_*|*_10066_*:*_1_*:*_83873367_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14098753,,,,,,,,11288,HT10200-325,Metralite,Done,21/May/25 4:28 PM
+1e 66th street,HT10200-62,10000,Research Pricing,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,24/Apr/25 1:13 PM,30/May/25 3:04 PM,11/Jun/25 12:30 PM,29/Apr/25 1:39 PM,,0,printing,,,,"10200-1114_dr-ca aaa.a.a.b 1e 66th street.00
+
+Jamie sent email to John Costanza requesting pricing for the following items
+
+
+please price
+
+
+
+1/2"" X 2"" bronze rect bar satin #4 all around; 120 LF
+
+
+
+1/8"" satin #4 muntz 48 X 96....3
+
+
+
+julius blum #6121 600 LF
+
+
+
+steel rect tube 2"" X 6"" X 1/8"" ...100 LF
+
+
+
+legacy #3676BR...8LF
+
+legacy #386BR...8 LF
+
+my job is to take the pricing info from Costanza and put it together into an excel table then send it to Jamie for review.",,Automation for Jira,Jed Ferreras,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,"reviewed Jamies email instructions, collected and discussed pricing with J Costanza, prepared excel sheet, sent to Jamie for review;25/Apr/25 11:41 AM;2cb34d14-d754-4e38-ac33-6cab8114957a;5400",,0,5400,,,0,5400,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3d74972c,,,,,,,,,,ghx-label-5,,,,,dark_teal,,,,,,,,,,,,0|hzzzzz:,,,,,,,,,,,,,,,,,,,,,,,,,,2025-05-22 15:52:50.573,3_*:*_1_*:*_70049595_*|*_10000_*:*_1_*:*_80709078_*|*_10002_*:*_1_*:*_2372_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_2_*:*_282748079,29/Apr/25 1:39 PM;712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885;collected all the pricing for all the items from John Costanza and submitted a price list to Jamie,22/May/25 11:52 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 15:52,22/May/25 11:53 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 15:53,,,,,11292,HT10200-329,National Wall,Done,21/May/25 4:27 PM
+Metralite 320 Park Ave Flagstar Cash Room Cladding,HT10200-60,10310,Submittal Drawing,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Lowest,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,13/May/25 1:19 PM,20/Jun/25 10:54 PM,01/Jul/25 2:47 PM,20/Jun/25 10:54 PM,,0,printing,submittal,takeoffs,,"10200-1111_dr-ca aaa.a.a.x metralite flagstar storefront.00
+
+Technically we already received this request by mass merchandising and theyre both quoting the exact same thing from what I can see
+
+Metralite Fwd: RFQ - Flagstar - Cladding at Cash Room
+",,Automation for Jira,,557058:f58131cb-b67d-43c7-b30d-6b58d40bd077,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@5f65d0f7,,,,,,,,,,,,,,,,,,,,,,na,na,na,,,0|i000hj:,,,English,,,,,,,,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,2025-05-21 22:06:20.324,1_*:*_1_*:*_699934116_*|*_10136_*:*_1_*:*_0_*|*_10135_*:*_1_*:*_69147393_*|*_10137_*:*_1_*:*_2414764721,21/May/25 6:06 PM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-141 22:06,22/May/25 10:57 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-142 14:57,28/May/25 9:20 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-148 13:20,28/May/25 9:20 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-148 13:20,28/May/25 9:21 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;work type changed on 2025-05-148 13:21,"19/Jun/25 9:43 AM;557058:f58131cb-b67d-43c7-b30d-6b58d40bd077;""Reopened because a new subtask was added."" 2025-06-170 13:43",,11288,HT10200-325,Metralite,Done,20/Jun/25 10:54 PM
+mass merch railing budget LF,HT10200-59,10189,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,01/May/25 10:03 AM,11/Jun/25 12:22 PM,,01/May/25 3:11 PM,,0,takeoffs,,,,"10200-1112_dr-ca aaa.a.a.e mass merch railing budget lf .00
+
+Draw 1 sketch of side mounted plate with 8 holes 1"" dia; plate is 3/4"" thick
+
+I have about 60Lf of this railing.  Rough LF number works (railing and plates)
+
+Plate is 10” x 10”
+
+ 
+
+It’s an exterior railing can we price it in 304 and alternate for 316",,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@313f4d64,,,,,,,,,,ghx-label-1,,,,,dark_grey,,,,,,,,,,,,0|i000af:,,,English,,,,,,,,,,,,,,,,,,,,,,,,10066_*:*_1_*:*_18478962_*|*_10068_*:*_1_*:*_0,,,,,,,,11289,HT10200-326,Mass Merch,Done,21/May/25 3:26 PM
+TPG Architecture 575 Madison 20th Floor JTC Testfit,HT10200-58,10316,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Lowest,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,14/May/25 1:44 PM,11/Jun/25 12:11 PM,,21/May/25 4:58 PM,14/May/25 12:00 AM,0,printing,,,,"TPG Architecture 575 Madison 20th Floor JTC Testfit
+
+
+
+10200-1111_dr-ca_aaa.a.a.z.00",,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@494bf1c9,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000in:,,,English,,,,,,,,,,14/May/25 12:00 AM,,,,,,,,,,,,,,1_*:*_1_*:*_610742399_*|*_10136_*:*_1_*:*_0_*|*_10137_*:*_1_*:*_5687073,,,,,,,,11294,HT10200-331,TGP Architecture,Done,21/May/25 4:58 PM
+versatile con edison – 4ip loading dock replacement & entrance.00,HT10200-57,10396,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Low,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,19/May/25 12:38 PM,11/Jun/25 12:09 PM,,21/May/25 3:21 PM,19/May/25 12:00 AM,0,printing,,,,10200-1111_dr-ca aaa.a.a.C versatile con edison – 4ip loading dock replacement & entrance.00,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3ce39b41,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000lz:,,,English,,,,,,,,,,19/May/25 12:00 AM,,,,,,,,,,,,,,1_*:*_1_*:*_182618482_*|*_10135_*:*_1_*:*_0,,,,,,,,11291,HT10200-328,Versatile,Done,21/May/25 3:21 PM
+mass merch wells fargo screens,HT10200-55,10464,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Lowest,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,20/May/25 6:10 PM,11/Jun/25 12:08 PM,,20/May/25 6:13 PM,20/May/25 12:00 AM,0,printing,,,,10200-1111_dr-ca aaa.a.a.E mass merch wells fargo screens.00,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@47e4bd0a,,,,,,,,,,,,,,,,,,,,,,,,,,,0|i000mv:,,,English,,,,,,,,,,20/May/25 12:00 AM,,,,,,,,,,,,,,1_*:*_1_*:*_169184_*|*_6_*:*_1_*:*_0,,,,,,,,11289,HT10200-326,Mass Merch,Done,20/May/25 6:13 PM
+mass merchandising flagstar bank 320 park ave - facade,HT10200-47,10188,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,30/Apr/25 3:27 PM,11/Jun/25 12:22 PM,,30/Apr/25 3:29 PM,,0,printing,,,,10200-1111_dr-ca aaa.a.a.q mass merchandising flagstar bank 320 park ave - facade.00,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@3d65c4f1,,,,,,,,,,ghx-label-3,,,,,yellow,,,,,,,,,,,,0|i000a7:,,,English,,,,,,,,,,,,,,,,,,,,,,,,10066_*:*_1_*:*_64374_*|*_10068_*:*_1_*:*_0,,,,,,,,11289,HT10200-326,Mass Merch,Done,21/May/25 2:58 PM
+shiping labels metralite 1301 ave of the americas,HT10200-46,10166,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,30/Apr/25 9:43 AM,11/Jun/25 12:38 PM,11/Jun/25 12:23 PM,30/Apr/25 10:38 AM,,0,printing,,,,"10200-1111_dr-ca aaa.a.a.p shiping labels metralite 1301 ave of the americas.00
+
+print out 8 new shipping labels for metralite o’malveny & myers - 1301 ave of the americas MT-01 dark oxidized bronze finish (scanga) but with today’s date (note this is a duplicate of an existing sample)",,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2efa706e,,,,,,,,,,ghx-label-4,,,,,dark_blue,,,,,,,,,,,,0|i0007j:,,,English,,,,,,,,,,,,,,,,,,,,,,,,3_*:*_1_*:*_0_*|*_10066_*:*_1_*:*_3286609,,,,,,,,11288,HT10200-325,Metralite,Done,21/May/25 2:58 PM
+karlis rekevics - racks,HT10200-45,10133,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,29/Apr/25 2:26 PM,11/Jun/25 12:23 PM,11/Jun/25 12:23 PM,29/Apr/25 5:37 PM,,0,printing,,,,10200-1111_dr-ca aaa.a.a.n karlis rekevics - racks.00,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@14b44ddc,,,,,,,,,,ghx-label-5,,,,,dark_teal,,,,,,,,,,,,0|i00073:,,,English,,,,,,,,,,,,,,,,,,,,,,,,10066_*:*_1_*:*_11416049_*|*_10068_*:*_1_*:*_0,,,,,,,,11297,HT10200-334,11th Workshop,Done,21/May/25 2:58 PM
+adler windows 540 degraw - canopy,HT10200-44,10132,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,29/Apr/25 1:38 PM,30/May/25 3:22 PM,11/Jun/25 12:23 PM,29/Apr/25 5:36 PM,,0,printing,,,,10200-1111_dr-ca aaa.a.a.g adler windows 540 degraw - canopy.00,,,,,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@1f302764,,,,,,,,,,ghx-label-9,,,,,orange,,,,,,,,,,,,0|i0006v:,,,English,,,,,,,,,,,,,,,,,,,,,,,,10066_*:*_1_*:*_14311503_*|*_10068_*:*_1_*:*_0,,,,,,,,11307,HT10200-344,Adler Construction,Done,21/May/25 2:58 PM
+jamie td takeoffs,HT10200-43,10073,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:17 PM,11/Jun/25 12:37 PM,11/Jun/25 12:26 PM,29/Apr/25 5:33 PM,,0,takeoffs,,,,10200-1115_dr-ca aaa.a.a.e jamie td takeoffs.00,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7a6125bf,,,,,,,,,,ghx-label-12,,,,,grey,,,,,,,,,,,,0|i0006f:,,,,,,,,,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_127892_*|*_10066_*:*_1_*:*_84004250_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14064307,,,,,,,,11426,HT10200-360,BACKOFFICE,Done,21/May/25 2:58 PM
+national wall 323 e24th st storefront canopy & lobby 1st,HT10200-42,10087,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:17 PM,11/Jun/25 12:24 PM,11/Jun/25 12:24 PM,29/Apr/25 5:36 PM,,0,printing,,,,10200-1111_dr-ca aaa.a.a.o national wall 323 e24th st storefront canopy & lobby 1st.00,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,just made a pdf copy of the documents on my desk;28/Apr/25 2:32 PM;2cb34d14-d754-4e38-ac33-6cab8114957a;600,,0,600,,,0,600,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@69302624,,,,,,,,,,ghx-label-1,,,,,dark_grey,,,,,,,,,,,,0|i00067:,,,,,,,,,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_97751_*|*_10066_*:*_1_*:*_84159485_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14067167,,,,,,,,11292,HT10200-329,National Wall,Done,21/May/25 2:58 PM
+"sales order 31211 from access door, inc",HT10200-41,10083,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:17 PM,11/Jun/25 12:25 PM,11/Jun/25 12:24 PM,29/Apr/25 5:35 PM,,0,printing,,,,"10200-1111_dr-ca aaa.a.a.l sales order 31211 from access door, inc.00",,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@52985d6f,,,,,,,,,,ghx-label-14,,,,,dark_orange,,,,,,,,,,,,0|i0005r:,,,,,,,,,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_99696_*|*_10066_*:*_1_*:*_84112893_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14072243,,,,,,,,11425,HT10200-359,Access Door,Done,21/May/25 2:58 PM
+dynamic 300 park ave,HT10200-40,10081,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:17 PM,11/Jun/25 12:25 PM,11/Jun/25 12:25 PM,29/Apr/25 5:35 PM,,0,printing,,,,10200-1111_dr-ca aaa.a.a.h dynamic 300 park ave.00,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@64742690,,,,,,,,,,ghx-label-6,,,,,green,,,,,,,,,,,,0|i0005j:,,,,,,,,,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_102497_*|*_10066_*:*_1_*:*_84091141_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14073769,,,,,,,,11303,HT10200-340,Dynamic Bldg Sols,Done,21/May/25 2:58 PM
+variant services 575 madison ave 15th fl window sills,HT10200-39,10067,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:16 PM,11/Jun/25 12:26 PM,11/Jun/25 12:26 PM,29/Apr/25 5:32 PM,,0,printing,,,,10200-1111_dr-ca aaa.a.a.m variant services 575 madison ave 15th fl window sills.00,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@2ce93cc5,,,,,,,,,,ghx-label-3,,,,,yellow,,,,,,,,,,,,0|i0003z:,,,,,,,,,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_109370_*|*_10066_*:*_1_*:*_83957237_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14091185,,,,,,,,11290,HT10200-327,Variant,Done,21/May/25 2:58 PM
+jerome glass td bank,HT10200-38,10065,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:16 PM,11/Jun/25 12:35 PM,11/Jun/25 12:26 PM,29/Apr/25 5:32 PM,,0,takeoffs,,,,10200-1115_dr-ca aaa.a.a.d td bank.00,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@467e5135,,,,,,,,,,ghx-label-5,,,,,dark_teal,,,,,,,,,,,,0|i0003r:,,,,,,,,,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_114356_*|*_10066_*:*_1_*:*_83934517_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14093443,,,,,,,,11427,HT10200-361,Jerome Glass,Done,21/May/25 2:58 PM
+nyw-517 25th & 7th ave custom table,HT10200-37,10063,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:16 PM,11/Jun/25 12:33 PM,11/Jun/25 12:26 PM,29/Apr/25 5:32 PM,,0,printing,,,,10200-1111_dr-ca aaa.a.a.f nyw-517 25th & 7th ave custom table.00,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@13a9902c,,,,,,,,,,ghx-label-8,,,,,dark_purple,,,,,,,,,,,,0|i0003j:,,,,,,,,,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_116876_*|*_10066_*:*_1_*:*_83915867_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14094987,,,,,,,,11290,HT10200-327,Variant,Done,21/May/25 2:58 PM
+ny aquarium mesh,HT10200-36,10061,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:16 PM,11/Jun/25 12:32 PM,11/Jun/25 12:26 PM,29/Apr/25 5:31 PM,,0,printing,,,,10200-1111_dr-ca aaa.a.a.e ny aquarium mesh.00,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@17a0dd8a,,,,,,,,,,ghx-label-6,,,,,green,,,,,,,,,,,,0|i0003b:,,,,,,,,,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_119616_*|*_10066_*:*_1_*:*_83894095_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14096962,,,,,,,,11426,HT10200-360,BACKOFFICE,Done,21/May/25 2:58 PM
+metralite virtus black finish samples,HT10200-35,10057,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:16 PM,11/Jun/25 12:26 PM,11/Jun/25 12:26 PM,29/Apr/25 5:31 PM,,0,printing,,,,10200-1111_dr-ca aaa.a.a.d metralite virtus black finish samples.00,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@7c940074,,,,,,,,,,ghx-label-13,,,,,dark_green,,,,,,,,,,,,0|i0002v:,,,,,,,,,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_124454_*|*_10066_*:*_1_*:*_83853814_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14100603,,,,,,,,11288,HT10200-325,Metralite,Done,21/May/25 2:58 PM
+ls power - blackened steel tv surrounds,HT10200-34,10055,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:16 PM,11/Jun/25 12:27 PM,11/Jun/25 12:26 PM,29/Apr/25 5:30 PM,,0,printing,,,,10200-1111_dr-ca aaa.a.a.j ls power - blackened steel tv surrounds.00,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@e021e30,,,,,,,,,,ghx-label-13,,,,,dark_green,,,,,,,,,,,,0|i0002n:,,,,,,,,,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_126244_*|*_10066_*:*_1_*:*_83825391_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14102385,,,,,,,,11289,HT10200-326,Mass Merch,Done,21/May/25 2:58 PM
+icon 575 madison ave 12th fl s&p mgt,HT10200-33,10053,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:16 PM,11/Jun/25 12:28 PM,11/Jun/25 12:27 PM,29/Apr/25 5:30 PM,,0,printing,,,,10200-1111_dr-ca aaa.a.a.k icon 575 madison ave 12th fl s&p mgt.00,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@22b885a6,,,,,,,,,,ghx-label-10,,,,,blue,,,,,,,,,,,,0|i0002f:,,,,,,,,,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_127713_*|*_10066_*:*_1_*:*_83803906_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14104287,,,,,,,,11300,HT10200-337,Icon,Done,21/May/25 2:58 PM
+ct 3080 ncc59 - fab docs,HT10200-32,10049,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:16 PM,30/May/25 3:23 PM,11/Jun/25 12:29 PM,29/Apr/25 5:28 PM,,0,printing,,,,10200-1111_dr-ca aaa.a.a.i ct 3080 ncc59 - fab docs.00,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@743995d8,,,,,,,,,,ghx-label-2,,,,,dark_yellow,,,,,,,,,,,,0|i0001z:,,,,,,,,,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_128009_*|*_10066_*:*_1_*:*_83719752_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14111798,"29/Apr/25 5:56 PM;712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885;printed drawings
+
+Email Link: :e-mail:[https://mail.google.com/mail/u/0/#all/196265285b534cb7|https://mail.google.com/mail/u/0/#all/196265285b534cb7]
+
+*From:* Jamie Moyer <moyer@hi-techmetals.com>
+*To:* Jed Ferreras <jed@hi-techmetals.com>
+*Subject:* Fwd: CT 3080 - NCC59 - Fabrication Documents and Data to be Logged and Filed
+*Send:* 11-Apr-2025 03:27 PM
+
+
+
+Print
+
+James Moyer
+*Senior Project Manager/Designer *
+
+59-20 56th Avenue
+Maspeth, NY 11378
+T: 718-894-1212 Ext. 209
+C: 845-551-7206
+E: moyer@hi-techmetals.com
+W: www.hi-techmetals.com
+
+
+
+---------- Forwarded message ---------
+From: Matthew Neff <mneff@berlinsteel.com>
+Date: Fri, Apr 11, 2025, 3:16 PM
+Subject: CT 3080 - NCC59 - Fabrication Documents and Data to be Logged and
+Filed
+To: Jamie Moyer <moyer@hi-techmetals.com>, Manny Tzilvelis (
+mannyvelis@gmail.com) <mannyvelis@gmail.com>
+Cc: Andrea Parent <AParent@berlinsteel.com>
+
+
+Is this something you can do?  If so, please provide a quote for the
+attached fabrication.
+
+
+
+**USA**
+
+
+
+Delivery to BTool:
+
+76 Depot Rd, Berlin, CT 06037
+<https://www.bing.com/local?lid=YN873x16469806687822975579&id=YN873x16469806687822975579&q=Berlin+Steel+Construction+Company&name=Berlin+Steel+Construction+Company&cp=41.6363525390625%7e-72.76254272460938&ppois=41.6363525390625_-72.76254272460938_Berlin+Steel+Construction+Company>
+
+
+
+
+
+All work must be done in accordance with BSCC’s drawings, standards, and
+specs.
+
+We reserve the right to reject any material shipped under this purchase
+order either in part or in full,
+
+that does not conform to every specification of this order, and/or any
+material that is damaged or
+
+is shipped in an unacceptable manner.
+
+*This written PO agreement, including The Berlin Steel terms and conditions
+*(let me know if you need a copy of the terms)*, *
+
+*takes precedent over any other term or condition in any other document
+furnished by (the vendor),*
+
+*whether attached to or referenced by this PO*
+
+*Mill Tests Reports or Certificate of Compliance* required.
+
+BSCC reserves the right to hold invoice until reports or certificates are
+received.
+
+Invoices to be sent to: APInvoices@berlinsteel.com
+
+MTR to be sent to:   millcerts@berlinsteel.com
+
+*SDS* sheets are required. Hard copy must be sent with the shipment and
+electronic file sent to mneff@berlinsteel.com
+
+Mark steel with P.O. number & Heat Number.
+
+
+
+Thank you
+
+
+
+
+<https://www.google.com/maps/search/76%0D%0A+Depot+Rd,+Berlin,+CT+06037+%0D%0A+Office+860?entry=gmail&source=g>
+
+
+
+Matthew Neff
+
+Purchasing Agent
+
+The Berlin Steel Construction Company
+
+76 Depot Rd, Berlin, CT 06037
+<https://www.bing.com/local?lid=YN873x16469806687822975579&id=YN873x16469806687822975579&q=Berlin+Steel+Construction+Company&name=Berlin+Steel+Construction+Company&cp=41.6363525390625%7e-72.76254272460938&ppois=41.6363525390625_-72.76254272460938_Berlin+Steel+Construction+Company>
+
+Office 860
+<https://www.google.com/maps/search/76%0D%0A+Depot+Rd,+Berlin,+CT+06037+%0D%0A+Office+860?entry=gmail&source=g>
+-828-2514
+
+[image: 967904_Berlin PRE]
+
+*Affirmative Action/Equal Opportunity Employer*
+",,,,,,,11306,HT10200-343,Berlin Steel,Done,21/May/25 2:58 PM
+clune construction millwork,HT10200-31,10047,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:16 PM,11/Jun/25 12:29 PM,11/Jun/25 12:29 PM,29/Apr/25 5:28 PM,,0,printing,,,,10200-1111_dr-ca aaa.a.a.c clune construction millwork.00,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@b8c613d,,,,,,,,,,ghx-label-12,,,,,grey,,,,,,,,,,,,0|i0001r:,,,,,,,,,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_131864_*|*_10066_*:*_1_*:*_83707441_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14113693,,,,,,,,11305,HT10200-342,Clune Construction,Done,21/May/25 2:58 PM
+270th ave millwork,HT10200-30,10045,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:16 PM,30/May/25 3:22 PM,,29/Apr/25 5:28 PM,,0,printing,,,,10200-1111_dr-ca aaa.a.a.b 270th ave millwork.00,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@6335541a,,,,,,,,,,ghx-label-9,,,,,orange,,,,,,,,,,,,0|i0001j:,,,,,,,,,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_131467_*|*_10066_*:*_1_*:*_83696465_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14118329,"29/Apr/25 5:57 PM;712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885;Email Link: :e-mail:[https://mail.google.com/mail/u/0/#all/19616a68ff5e46d3|https://mail.google.com/mail/u/0/#all/19616a68ff5e46d3]
+
+*From:* James Moyer <jamesm3688@gmail.com>
+*To:* ""jed@hi-techmetals.com"" <jed@hi-techmetals.com>
+*Subject:* Fwd: 270 7th Ave Custom Millwork details
+*Send:* 08-Apr-2025 02:25 PM
+
+
+
+print 1 set drawings 11 x 17
+
+---------- Forwarded message ---------
+From: Joe Suriano <vsiconstruction1@gmail.com>
+Date: Tue, Mar 18, 2025 at 7:11 AM
+Subject: Fwd: 270 7th Ave Custom Millwork details
+To: James Moyer <jamesm3688@gmail.com>
+
+
+
+---------- Forwarded message ---------
+From: Jessica Bonaldi <assistant@variantcompany.com>
+Date: Mon, Mar 17, 2025, 12:09 PM
+Subject: 270 7th Ave Custom Millwork details
+To: jcpless24 <jcpless24@gmail.com>
+Cc: Joe S. <vsiconstruction1@gmail.com>
+
+
+
+
+
+Sincerely,
+Jessica Bonaldi
+Assistant Project Manager
+Variant Services, Inc.
+PO Box 2009
+River Vale NJ 07675
+Phone:(201)497-6999; Direct: (201)497-3955; Fax:(201)781-6999; Mobile:
+(201)-772-6906
+Email: *assistant*@variantcompany.com <office@variantcompany.com>
+
+
+*Upcoming PTO: *
+
+
+-- 
+James Moyer
+C: 845-551-7206
+E: jamesm3688@gmail.com
+",,,,,,,11290,HT10200-327,Variant,Done,21/May/25 2:58 PM
+193 market st,HT10200-28,10043,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:15 PM,30/May/25 3:21 PM,,29/Apr/25 1:42 PM,,0,takeoffs,,,,10200-1115_dr-ca aaa.a.a.a adler windows 193 market st.00,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@9596c19,,,,,,,,,,ghx-label-12,,,,,grey,,,,,,,,,,,,0|i0001b:,,,,,,,,,,,,,,,,,,,,,,,,,,,10000_*:*_1_*:*_134776_*|*_10066_*:*_1_*:*_70038238_*|*_10068_*:*_1_*:*_0_*|*_10003_*:*_1_*:*_14120236,"29/Apr/25 1:42 PM;712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885;printed attachment, created drawings and models to perform takeoffs, and saved to the following path
+
+C:\Users\jed_ferreras\Documents\Vault\Jobs\10200-HITECHTASKS.00\10200-1111_dr-ca aaa.a.a.g 193 market st.00",,,,,,,11307,HT10200-344,Adler Construction,Done,21/May/25 2:58 PM
+89 maspeth window sills takeoffs,HT10200-2,10041,Task,Done,HT10200,10200-HITECHTASKS.02,business,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,Medium,Done,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,Jed Ferreras,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,28/Apr/25 2:15 PM,30/May/25 3:21 PM,11/Jun/25 12:29 PM,05/May/25 9:43 AM,,0,takeoffs,,,,10200-1115_dr-ca aaa.a.a.c 89 maspeth window sills takeoffs.00,,Jed Ferreras,,712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885,,,,,,,,,,,,,,,com.atlassian.servicedesk.plugins.approvals.internal.customfield.ApprovalsCFValue@35017727,,,,,,,,,,ghx-label-11,,,,,teal,,,,,,,,,,,,0|i00013:,,,,,,,,,,,,,,,,,,,,,,,,,,,3_*:*_1_*:*_0_*|*_10000_*:*_1_*:*_132933_*|*_10066_*:*_1_*:*_69998083_*|*_10068_*:*_1_*:*_20125_*|*_10067_*:*_1_*:*_502386544_*|*_10003_*:*_1_*:*_14124718,29/Apr/25 1:40 PM;712020:454ffdf8-c7cb-4d48-8fd4-57fa0b162885;completed material takeoffs and submitted quantities list to Jamie,,,,,,,11307,HT10200-344,Adler Construction,Done,21/May/25 2:58 PM

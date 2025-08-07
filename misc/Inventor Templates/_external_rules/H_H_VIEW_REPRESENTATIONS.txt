@@ -1,0 +1,83 @@
+'define current document
+Dim openDoc As Document
+openDoc = ThisDoc.Document
+
+' set a reference to the assembly component definintion.
+' this assumes an assembly document is open.
+Dim oAsmCompDef As AssemblyComponentDefinition
+oAsmCompDef = ThisApplication.ActiveDocument.ComponentDefinition
+
+'look at all of the components in the assembly
+Dim oCompDef As Inventor.ComponentDefinition = openDoc.ComponentDefinition
+
+'define the first level components collection
+Dim oCompOcc As Inventor.ComponentOccurrence 
+
+'define view rep 
+Dim oViewRep As DesignViewRepresentation
+
+'define an arraylist to hold the list of  view rep names
+Dim NameList As New ArrayList()
+
+'Look at the view reps in the assembly
+For Each oViewRep in oAsmCompDef.RepresentationsManager.DesignViewRepresentations
+'set the list of names to the array list
+NameList.add(oViewRep.Name)
+Next
+
+'check for a Default view rep and create it if not found
+If Not NameList.Contains("Default") Then
+	'create Default view rep 
+	oViewRep = oAsmCompDef.RepresentationsManager.DesignViewRepresentations.Add("Default") 
+	oViewRep.ShowAll
+	oViewRep.Activate
+End If
+
+'zoom all
+ThisApplication.CommandManager.ControlDefinitions.Item("AppIsometricViewCmd").Execute
+
+'look at all of the unique parts in the assembly
+For Each docFile In openDoc.AllReferencedDocuments
+	If docFile.DocumentType = 12290 Then '12290 is the part document enumurator
+	'locate the last backslash position in the full file name
+	Dim FNamePos As Long
+	FNamePos = InStrRev(docFile.FullFileName, "\", -1) 
+	'remove path from part file name 	
+	Dim docFName As String
+	docFName = Right(docFile.FullFileName, Len(docFile.FullFileName) - FNamePos)         
+	'remove extension from part file name 
+	ShortName = Left(docFName,  Len(docFName) - 4)   
+		'check to see if the arraylist contains the desired view rep
+		If Not NameList.Contains(ShortName) Then
+		'create new View Rep 
+		oViewRep = oAsmCompDef.RepresentationsManager.DesignViewRepresentations.Add(ShortName)
+		oViewRep.Activate
+		oViewRep.Locked = False	
+		Else if NameList.Contains(ShortName) Then
+		'reference existing View Rep 
+		oViewRep = oAsmCompDef.RepresentationsManager.DesignViewRepresentations.Item(ShortName) 
+		oViewRep.Activate
+		oViewRep.Locked = False
+		End If
+		'look at all of the occurences
+		For each oCompOcc in oCompDef.Occurrences
+		'locate the colon position in the occurence name
+		oCompOccPos = InStrRev(oCompOcc.Name, ":") 
+		'set occurence name to everything left of the colon
+		oOccName = Left(oCompOcc.Name, oCompOccPos -1) 
+			'set visible if name matches first occurence
+	      		If oCompOcc.Name = ShortName & ":1"  Then
+			oCompOcc.Visible = True
+			ThisApplication.ActiveView.Update()
+			Else
+			oCompOcc.Visible = False
+			ThisApplication.ActiveView.Update()
+			End If
+		Next
+	End If
+	'lock view rep
+	oViewRep.Locked = True	
+Next
+
+'set Default View Rep active
+oAsmCompDef.RepresentationsManager.DesignViewRepresentations.Item("Default").activate

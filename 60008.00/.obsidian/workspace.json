@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "e3f493504370741c",
+    "type": "split",
+    "children": [
+      {
+        "id": "363fa819e186c9b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff23b0d119d2a47c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metralite Flagstar Storefront.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Metralite Flagstar Storefront"
+            }
+          },
+          {
+            "id": "04dcd0b63cb92e6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "60008-NOTES & DATA TRACKING PROJECT.00.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "60008-NOTES & DATA TRACKING PROJECT.00"
+            }
+          },
+          {
+            "id": "f6d4f18d234586bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OneNote/Jed's Notebook/Psswds/Pswd.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pswd"
+            }
+          },
+          {
+            "id": "4f8e87401e2c77cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "840b74bd8059081c",
+    "type": "split",
+    "children": [
+      {
+        "id": "57c560a13de9cfef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "088340a65aad42f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8a755b34804e4792",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5964952a5535b7f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a5938ca8beff109",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c0a9b2d4fa463ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c713913086ff226d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled 2"
+            }
+          },
+          {
+            "id": "1639f8c25e773614",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "85274c0e93ca1cc6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3c08aa6323cb4131",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "4f8e87401e2c77cd",
+  "lastOpenFiles": [
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/matlab/smlink.r2021a.win64/help/physmod/smlink/ref/inv_table_mate_constraint_mapping.png",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/matlab/smlink.r2021a.win64/help/physmod/smlink/ug/apiexport.gif",
+    "00223-PROMFI DATABASE SYSTEM MANAGER/3.5.3 - 00223-PZ-AZ PROMFI ARCHIVES/Database System Manager-Services SAMPLE.pdf",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Cpp/docs/Tutorials/Import-and-calibrate-urdf.md",
+    "00223-PROMFI DATABASE SYSTEM MANAGER/00223_PZ-PZ/Time-Management-icon.png",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/matlab/smlink.r2021a.win64/help/physmod/smlink/ref/inv_table_mates_entities_b.png",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/matlab/smlink.r2021a.win64/help/physmod/smlink/ug/sm_robot_proe_screen.png",
+    "00223-PROMFI DATABASE SYSTEM MANAGER/unorganized_190725/CP575Notice_1489680852700_031617.pdf",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Cpp/docs/Manual-Apps.md",
+    "00085-PROGRAMMING & CODING PROJECTS/RStudioProjects/datasharing/README.md",
+    "00223-PROMFI DATABASE SYSTEM MANAGER/3.5.3 - 00223-PZ-AZ PROMFI ARCHIVES/PROMFI 1.2 - excerpt for reference - FBP.pdf",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Python/docs/source/_static/images/traj_test2.png",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/matlab/smlink.r2021a.win64/help/physmod/smlink/ref/creo_table_mate_constraint_mapping.png",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Python/docs/source/_static/images/motion_planning1.jpg",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/openrave/openrave/docs/images/cppexample_ormulticontrol.jpg",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Python/docs/source/_static/images/traj_test1.png",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Cpp/docs/Manual-Modeling.md",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/matlab/smlink.r2021a.win64/help/physmod/smlink/ug/cadapiobjects.gif",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Cpp/docs/Tutorials/Run-a-simulation-Apps.md",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Cpp/docs/Tutorials/Run-a-simulation-Cpp.md",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/211208_3b1b Manim/media/videos/animatesyntax/480p15/partial_movie_files/CreateCircle/2201830969_2058202928_1793580042.mp4",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/211208_3b1b Manim/media/videos/scene/480p15/partial_movie_files/CreateCircle/2201830969_2058202928_1793580042.mp4",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/211208_3b1b Manim/media/videos/squaretocircle/480p15/partial_movie_files/CreateCircle/2201830969_950108547_1793580042.mp4",
+    "60009-JEDF RESUME/9.3.2 - 60007-YR-MU - COVER LETTRS/JedFerrerasCoverletter102218.pdf",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Cpp/docs/Tutorials/Inverse-kinematics.md",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/211208_3b1b Manim/media/videos/animatesyntax/480p15/partial_movie_files/CreateCircle/2201830969_3342501532_1793580042.mp4",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/211208_3b1b Manim/media/videos/scene/480p15/partial_movie_files/CreateCircle/2201830969_3342501532_1793580042.mp4",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Cpp/docs/Manual-Math.md",
+    "00223-PROMFI DATABASE SYSTEM MANAGER/3.5.3 - 00223-PZ-AZ PROMFI ARCHIVES/JED F - CURRENT PROJECTS.pdf",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Cpp/docs/Manual-Installation.md",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Cpp/docs/Manual-Systems.md",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Cpp/docs/Manual-IK.md",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Cpp/docs/Tutorials/Custom-controller-simulated.md",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Cpp/docs/Tutorials/Install-Docker.md",
+    "OneNote/Jed's Notebook/Psswds/Pswd.md",
+    "Untitled 2.md",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Cpp/docs/Manual-Paths.md",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Cpp/docs/Manual-Dynamics.md",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Cpp/docs/Tutorials/Build-and-edit-world.md",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Cpp/docs/Manual-Simulation.md",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/quadmjbots/quad/docs/quada1/README.md",
+    "SD Holy Trinity Communication System.md",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Cpp/docs/FAQ.md",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Cpp/docs/Programming-Notes.md",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Cpp/docs/Manual-Geometry.md",
+    "00085-PROGRAMMING & CODING PROJECTS/python projects/Klampt-master/Cpp/docs/Manual-Organization.md"
+  ]
+}

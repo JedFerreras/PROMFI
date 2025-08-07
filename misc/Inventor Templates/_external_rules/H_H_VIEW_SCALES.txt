@@ -1,0 +1,3 @@
+'AUTOMATICALLY RESIZE VIEW SCALE TO FIT BASED ON DRAWING SHEET WIDTH
+
+'ActiveSheet.View("view1").Scale-ActiveSheet.View("view1").Scale*(viewproportion/(ActiveSheet.View("view1").Width/ActiveSheet.Width))
