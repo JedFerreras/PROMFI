@@ -161,3 +161,21 @@ __pycache__/
 # Let PROMFI JSON & README files stay tracked
 !*.json
 !*.md
+
+# Exclude heavy exports or backups in 00085.00
+00085.00/**/*.zip
+00085.00/**/*.7z
+00085.00/**/*.rar
+00085.00/**/*.tar
+00085.00/**/*.gz
+00085.00/**/*.bak
+00085.00/**/*.tmp
+00085.00/**/*.log
+00085.00/**/*.mp4
+00085.00/**/*.mov
+00085.00/**/*.avi
+00085.00/**/*.iso
+
+# Exclude large or private OneNote backups
+onenote/**
+!onenote/README.md
